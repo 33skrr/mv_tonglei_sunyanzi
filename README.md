@@ -4,7 +4,7 @@
 
 ## 观看
 
-- **B 站：待补充**（上传后把链接放在这里）
+- **B 站：[《同类》8-bit 像素 MV](https://www.bilibili.com/video/BV1WaxF6rEHS/)**
 - 仓库内只保留预览图、字幕和工程源码；完整视频与原始音轨不纳入 Git。
 
 ![写实城市版关键帧](out/final-preview.png)
