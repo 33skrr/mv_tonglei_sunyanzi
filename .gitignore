@@ -1,0 +1,9 @@
+node_modules/
+.npm-cache/
+.tmp/
+out/stills/
+out/check/
+out/transitions/
+out/*.mp4
+public/audio/source.mp3
+font-test.html

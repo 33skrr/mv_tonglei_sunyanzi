@@ -1,0 +1,24 @@
+{
+  "name": "tonglei-8bit-mv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An original 8-bit pixel fable inspired by the lyrical themes of Stefanie Sun's Tong Lei.",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "node scripts/render-full.mjs",
+    "still": "remotion still KindredMV out/poster.png --frame=5"
+  },
+  "dependencies": {
+    "@fontsource/fusion-pixel-12px-proportional-sc": "^5.3.0",
+    "@fontsource/press-start-2p": "^5.3.0",
+    "@remotion/cli": "4.0.539",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.539"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6",
+    "typescript": "5.8.3"
+  }
+}
